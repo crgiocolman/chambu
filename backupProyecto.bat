@@ -1,0 +1,1 @@
+copy *.* C:\OneDrive\Proyectos\Sist_Chambu\ /y
